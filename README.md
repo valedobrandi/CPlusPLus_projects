@@ -18,7 +18,6 @@ make
 - The `webserv` project showcases a deeper understanding of system-level programming through the creation of an HTTP web server.
 
 ## Future Plans
-- Continue to enhance the `webserv` project, adding more features and improving its performance.
 - Expand the repository with additional projects to explore other facets of C++ programming.
 
 ---
