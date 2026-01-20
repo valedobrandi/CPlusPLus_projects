@@ -1,0 +1,7 @@
+services:
+  webserver:
+    image: webserver
+    volumes:
+    - ./app:/app
+    working_dir: /app
+    command: ["/bin/sh", "-c", "chmod +x webserv && ./webserv config_files/evaluation.conf"]
